@@ -39,7 +39,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'xyaoab@connect.ust.hk'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
