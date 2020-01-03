@@ -21,18 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
   [[content.filter_button]]
-    name = "Robots"
-    tag = "Robots"
+    name = "Robotics"
+    tag = "Robotics"
   
   [[content.filter_button]]
     name = "Computer Vision"
     tag = "CV"
-  
   [[content.filter_button]]
     name = "Finance"
     tag = "Finance"
@@ -61,8 +60,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DeepSkyBlue"
-  gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

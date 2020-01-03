@@ -32,11 +32,11 @@ links:
 #  url: http://example.org
 url_pdf: https://arxiv.org/abs/1911.12063
 url_code: https://github.com/xyaoab/SocialNavigation
-url_dataset: ''
+url_dataset: '#'
 url_poster: https://drive.google.com/file/d/1xvhPMLCZ-1Z-R33yJ7eZ4Km8wxILQrX1/view?usp=sharing
-url_project: ''
+url_project: '#'
 url_slides: '#'
-url_source: ''
+url_source: '#'
 url_video: https://www.youtube.com/watch?v=I_SkA9rmxYE
 
 # Featured image
@@ -61,3 +61,4 @@ projects:
 slides: example
 ---
 
+  
