@@ -4,7 +4,7 @@
 title: "Startup"
 summary: "Leveraged learning-based methods to predict if ventures will have further funding requests"
 tags: 
--Robotics
+- Robotics
 date: 2019-01-25T15:23:51+08:00
 
 # Optional external URL for project (replaces project detail page).
