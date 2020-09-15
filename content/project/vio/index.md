@@ -3,8 +3,8 @@
 
 title: "Vio"
 summary: "Robust Vison-Inertial Odometery"
-authors: []
-tags: - Robotics
+tags: 
+- Robotics
 date: 2019-01-28T16:30:05+08:00
 
 # Optional external URL for project (replaces project detail page).
