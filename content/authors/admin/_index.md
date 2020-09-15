@@ -31,7 +31,6 @@ education:
   - course: Master of Science in Robotics (Research Program)
     institution: Carnegie Mellon University
     year: 2022
-  courses:
   - course: BEng in Computer Engineering & BBA in Business Management;Minor in Robotics
     institution: The Hong Kong University of Science and Technology
     year: 2020
