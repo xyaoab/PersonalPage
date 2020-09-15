@@ -10,23 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Undegraduate student
+role: M.S. candidate in Robotics
 
 # Organizations/Affiliations
 organizations:
-- name:  The Hong Kong University of Science and Technology
+- name:  Carnegie Mellon University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include perception and planning in autonomous robots.
+bio: My research interests include perception and planning in autonomous mobile robots.
 
 interests:
 - Robotics
 - Artificial Intelligence
 - Autonomy 
+- Perception-based Navigation
 
 education:
   courses:
+   - course: Master of Science in Robotics (Research Program)
+    institution: Carnegie Mellon University
+    year: 2022
   - course: BEng in Computer Engineering & BBA in Business Management;Minor in Robotics
     institution: The Hong Kong University of Science and Technology
     year: 2020
@@ -38,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'xyaoab@connect.ust.hk'  # For a direct email link, use "mailto:test@example.org".
+  link: 'xyaoab@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/abby-xinjie-yao-508896138/
@@ -64,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Xinjie Yao is an undergraduate student at HKUST majoring in Computer Engineering and Business Management. Her research interests include percetion and planning for autonomous robots in dynamic environments. She is working as an undergraduate research assistant with HKUST UAV group on relative localization in Swarm UAVs. 
+Xinjie Yao is a master student at CMU majoring in Robotics, a special research program. Her research interests include percetion and planning for autonomous robots in dynamic environments. Her past experience involve localization, state estimation, human trajectory prediction, learning-based planning and system integration.
 
